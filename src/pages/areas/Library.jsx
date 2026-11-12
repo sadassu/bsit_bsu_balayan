@@ -75,7 +75,7 @@ const defaultArea = {
         title: "Financial Support",
         description: [
             {title: "Copy of the General Budgetary Allocation for the Library", link: "https://drive.google.com/file/d/1_ZTLV-hjMw3FWN3hGA31AKLkvzWIR2bK/view?usp=drive_link"},
-            {title: "Evidence of the Head Librarian's Participation in Budget Preparation", link: "https://drive.google.com/file/d/1CyowK5KPC-UtBzrOg5mePWq_dT7hkerc/view?usp=drive_link"},
+            {title: "Evidence of the Head Librarian's Participation in Budget Preparation", link: "https://drive.google.com/file/d/1HHDyaAMszZ0ZSPNdisOLGxZwyeVwk_1y/view?usp=drive_link"},
             {title: "Evidence that Library Fees are Utilized for Library Purposes", link: "https://drive.google.com/file/d/19E-smBnFuWPvrJyXsl8NQt_Xwot-wUCq/view?usp=drive_link"}
         ]
     },
